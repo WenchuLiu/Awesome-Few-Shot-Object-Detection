@@ -18,7 +18,7 @@ Collect some papers about few-shot object detection for computer vision.
 | CVPR24 | Few-Shot Object Detection with Foundation Models | [LINK](https://openaccess.thecvf.com/content/CVPR2024/html/Han_Few-Shot_Object_Detection_with_Foundation_Models_CVPR_2024_paper.html) | - |
 | CVPR24 | SNIDA: Unlocking Few-Shot Object Detection with Non-linear Semantic Decoupling Augmentation | [LINK](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_SNIDA_Unlocking_Few-Shot_Object_Detection_with_Non-linear_Semantic_Decoupling_Augmentation_CVPR_2024_paper.html) | - |
 | ECCV24 | SMILe: Leveraging Submodular Mutual Information For Robust Few-Shot Object Detection | [LINK](https://eccv2024.ecva.net//virtual/2024/poster/796) | - |
-| AAAI24 | Fine-Grained Prototypes Distillation for Few-Shot Object Detection | - | - |
+| AAAI24 | Fine-Grained Prototypes Distillation for Few-Shot Object Detection | [PDF](https://arxiv.org/pdf/2401.07629) | [CODE](https://github.com/wangchen1801/FPD) |
 | AAAI24 | Weakly Supervised Few-Shot Object Detection with DETR | - | - |
 | AAAI24 | Variational Hybrid-Attention Framework for Multi-Label Few-Shot Aspect Category Detection | - | - |
 
@@ -84,4 +84,4 @@ Collect some papers about few-shot object detection for computer vision.
 
 ## Acknowledgements
 
-This repository was built on top of [lxn96](https://github.com/lxn96/awesome-few-shot-object-detection).We thank the effort from our community.
+This repository is built upon [lxn96](https://github.com/lxn96/awesome-few-shot-object-detection) as a foundation, since the original repository ceased updates in September 2023. We thank the effort from our community.
