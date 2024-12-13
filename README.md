@@ -20,7 +20,8 @@ Collect some papers about few-shot object detection for computer vision.
 | ECCV24 | SMILe: Leveraging Submodular Mutual Information For Robust Few-Shot Object Detection | [LINK](https://eccv2024.ecva.net//virtual/2024/poster/796) | - |
 | AAAI24 | Fine-Grained Prototypes Distillation for Few-Shot Object Detection | [PDF](https://arxiv.org/pdf/2401.07629) | [CODE](https://github.com/wangchen1801/FPD) |
 | AAAI24 | Weakly Supervised Few-Shot Object Detection with DETR | - | - |
-| AAAI24 | Variational Hybrid-Attention Framework for Multi-Label Few-Shot Aspect Category Detection | - | - |
+| AAAI24 | Variational Hybrid-Attention Framework for Multi-Label Few-Shot Aspect Category Detection | [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/29375) | - |
+| CoRL24 | Detect Every Thing with Few Examples | [LINK](https://arxiv.org/abs/2309.12969) | [CODE](https://github.com/mlzxy/devit) |
 
 ### 2023
 
@@ -35,6 +36,9 @@ Collect some papers about few-shot object detection for computer vision.
 | Breaking Immutable: Information-Coupled Prototype Elaboration for Few-Shot Object Detection | AAAI 2023 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2211.14782.pdf) | [CODE](https://github.com/lxn96/ICPE) |
 | Few-Shot Object Detection via Variational Feature Aggregation | AAAI 2023 |  PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2301.13411.pdf) | [CODE](https://github.com/csuhan/VFA) |
 | Disentangle and Remerge: Interventional Knowledge Distillation for Few-Shot Object Detection from A Conditional Causal Perspective | AAAI 2023 | PASCAL VOC & MS COCO | [PDF](https://arxiv.org/pdf/2208.12681.pdf) | [CODE](https://github.com/ZYN-1101/DandR.git) |
+| Incremental-DETR: Incremental Few-Shot Object Detection via Self-Supervised Learning | AAAI 2023 | PASCAL VOC & MS COCO | - | - |
+| Few-Shot Object Detection via Variational Feature Aggregation | AAAI 2023 | PASCAL VOC & MS COCO | - | - |
+| Unsupervised Meta-learning via Few-shot Pseudo-supervised Contrastive Learning | ICLR 2023 | PASCAL VOC & MS COCO | - | - |
 
 ### 2022
 
