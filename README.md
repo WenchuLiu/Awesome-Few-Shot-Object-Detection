@@ -22,6 +22,7 @@ Collect some papers about few-shot object detection for computer vision.
 | AAAI24 | Weakly Supervised Few-Shot Object Detection with DETR | - | - |
 | AAAI24 | Variational Hybrid-Attention Framework for Multi-Label Few-Shot Aspect Category Detection | [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/29375) | - |
 | CoRL24 | Detect Every Thing with Few Examples | [LINK](https://arxiv.org/abs/2309.12969) | [CODE](https://github.com/mlzxy/devit) |
+| TCSVT24 | Understanding Negative Proposals in  Generic Few-Shot Object Detection | [LINK](https://ieeexplore.ieee.org/document/10440351) | [CODE](https://github.com/Ybowei/UNP) |
 
 ### 2023
 
