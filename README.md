@@ -24,6 +24,7 @@ Collect some papers about few-shot object detection for computer vision.
 | CVPRW25 | NTIRE 2025 Challenge on Cross-Domain Few-Shot Object Detection: Methods and Results | [LINK](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Fu_NTIRE_2025_Challenge_on_Cross-Domain_Few-Shot_Object_Detection_Methods_and_CVPRW_2025_paper.html) | - |
 | ICCV25 | When Pixel Difference Patterns Meet ViT: PiDiViT for Few-Shot Object Detection | [LINK](https://openaccess.thecvf.com/content/ICCV2025/html/Zhou_When_Pixel_Difference_Patterns_Meet_ViT_PiDiViT_for_Few-Shot_Object_ICCV_2025_paper.html) | [CODE](https://github.com/Seaz9/PiDiViT) |
 | ICLR25 | Multi-Perspective Data Augmentation for Few-shot Object Detection | [LINK](https://iclr.cc/virtual/2025/poster/28258) | - |
+| TPAMI25 | Generalized Semantic Contrastive Learning via Embedding Side Information for Few-Shot Object Detection | [LINK](https://ieeexplore.ieee.org/document/10963743/) | - |
 | ArXiv25 | No time to train! Training-Free Reference-Based Instance Segmentation | [LINK](https://arxiv.org/abs/2507.02798) | [CODE](https://github.com/miquel-espinosa/no-time-to-train) |
 
 ### 2024
