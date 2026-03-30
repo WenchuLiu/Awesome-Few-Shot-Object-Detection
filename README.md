@@ -16,6 +16,8 @@ Collect some papers about few-shot object detection for computer vision.
 | Venue | Title | LINK | CODE |
 | :----:|:-----|:----:|:----:|
 | ICLR26 | FSOD-VFM: Few-Shot Object Detection with Vision Foundation Models and Graph Diffusion | [LINK](https://iclr.cc/virtual/2026/poster/10007893) | [CODE](https://intellindust-ai-lab.github.io/projects/FSOD-VFM) |
+| AAAI26 | Less is Better: Sparse Instance Learning for Cross-Domain Few-Shot Object Detection | [LINK](https://aaai.org/wp-content/uploads/2025/11/main-track-poster-presentations-251120-2.pdf) | - |
+| AAAI26 | Intra-Image Mining and Symmetric Maximum Concept Matching for Few Shot Out-of-Distribution Detection | [LINK](https://aaai.org/wp-content/uploads/2025/11/main-track-poster-presentations-251120-2.pdf) | - |
 | CVPR26 | Remedying Target-Domain Astigmatism for Cross-Domain Few-Shot Object Detection | [LINK](https://arxiv.org/abs/2603.18541) | - |
 | ArXiv26 | DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection | [LINK](https://arxiv.org/abs/2603.23455) | [CODE](https://github.com/ggare-cmu/DetPO) |
 
@@ -24,6 +26,7 @@ Collect some papers about few-shot object detection for computer vision.
 | Venue | Title | LINK | CODE |
 | :----:|:-----|:----:|:----:|
 | CVPRW25 | NTIRE 2025 Challenge on Cross-Domain Few-Shot Object Detection: Methods and Results | [LINK](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Fu_NTIRE_2025_Challenge_on_Cross-Domain_Few-Shot_Object_Detection_Methods_and_CVPRW_2025_paper.html) | - |
+| CVPRW25 | Instance Feature Caching for Cross-Domain Few-Shot Object Detection | [LINK](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Huang_Instance_Feature_Caching_for_Cross-Domain_Few-Shot_Object_Detection_CVPRW_2025_paper.html) | - |
 | ICCV25 | When Pixel Difference Patterns Meet ViT: PiDiViT for Few-Shot Object Detection | [LINK](https://openaccess.thecvf.com/content/ICCV2025/html/Zhou_When_Pixel_Difference_Patterns_Meet_ViT_PiDiViT_for_Few-Shot_Object_ICCV_2025_paper.html) | [CODE](https://github.com/Seaz9/PiDiViT) |
 | ICLR25 | Multi-Perspective Data Augmentation for Few-shot Object Detection | [LINK](https://iclr.cc/virtual/2025/poster/28258) | - |
 | NeurIPS25 | Domain-RAG: Retrieval Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection | [LINK](https://arxiv.org/abs/2506.05872) | [CODE](https://github.com/LiYu0524/Domain-RAG) |
