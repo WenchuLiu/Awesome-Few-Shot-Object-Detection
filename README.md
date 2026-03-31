@@ -18,6 +18,7 @@ Collect some papers about few-shot object detection for computer vision.
 | ICLR26 | FSOD-VFM: Few-Shot Object Detection with Vision Foundation Models and Graph Diffusion | [LINK](https://iclr.cc/virtual/2026/poster/10007893) | [CODE](https://intellindust-ai-lab.github.io/projects/FSOD-VFM) |
 | AAAI26 | Less is Better: Sparse Instance Learning for Cross-Domain Few-Shot Object Detection | [LINK](https://aaai.org/wp-content/uploads/2025/11/main-track-poster-presentations-251120-2.pdf) | - |
 | AAAI26 | Intra-Image Mining and Symmetric Maximum Concept Matching for Few Shot Out-of-Distribution Detection | [LINK](https://aaai.org/wp-content/uploads/2025/11/main-track-poster-presentations-251120-2.pdf) | - |
+| AAAI26 | StyleProto: Style-Augmented Prototype Learning for Cross-Domain Few-Shot Object Detection | [LINK](https://aaai.org/wp-content/uploads/2025/11/main-track-poster-presentations-251120-2.pdf) | - |
 | CVPR26 | Remedying Target-Domain Astigmatism for Cross-Domain Few-Shot Object Detection | [LINK](https://arxiv.org/abs/2603.18541) | - |
 | ArXiv26 | DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection | [LINK](https://arxiv.org/abs/2603.23455) | [CODE](https://github.com/ggare-cmu/DetPO) |
 
