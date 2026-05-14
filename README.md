@@ -19,7 +19,7 @@ Collect some papers about few-shot object detection for computer vision.
 | ICLR26 | FSOD-VFM: Few-Shot Object Detection with Vision Foundation Models and Graph Diffusion | Object Detection | [LINK](https://iclr.cc/virtual/2026/poster/10007893) | [CODE](https://intellindust-ai-lab.github.io/projects/FSOD-VFM) |
 | AAAI26 | Less is Better: Sparse Instance Learning for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://aaai.org/wp-content/uploads/2025/11/main-track-poster-presentations-251120-2.pdf) | - |
 | AAAI26 | Intra-Image Mining and Symmetric Maximum Concept Matching for Few Shot Out-of-Distribution Detection | OOD Detection | [LINK](https://aaai.org/wp-content/uploads/2025/11/main-track-poster-presentations-251120-2.pdf) | - |
-| AAAI26 | StyleProto: Style-Augmented Prototype Learning for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://aaai.org/wp-content/uploads/2025/11/main-track-poster-presentations-251120-2.pdf) | - |
+| AAAI26 | StyleProto: Style-Augmented Prototype Learning for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://dblp.org/rec/conf/aaai/YangX26.html) | [CODE](https://github.com/Wildfire-det/StyleProto) |
 | CVPR26 | Remedying Target-Domain Astigmatism for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://arxiv.org/abs/2603.18541) | - |
 | CVPR26 | A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps | Object Detection | [LINK](https://arxiv.org/abs/2603.28182) | [CODE](https://github.com/Intellindust-AI-Lab/FT-FSOD) |
 | ArXiv26 | DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection | LLM, Object Detection | [LINK](https://arxiv.org/abs/2603.23455) | [CODE](https://github.com/ggare-cmu/DetPO) |
@@ -45,6 +45,7 @@ Collect some papers about few-shot object detection for computer vision.
 | CVPR24 | Few-Shot Object Detection with Foundation Models | Object Detection | [LINK](https://openaccess.thecvf.com/content/CVPR2024/html/Han_Few-Shot_Object_Detection_with_Foundation_Models_CVPR_2024_paper.html) | - |
 | CVPR24 | SNIDA: Unlocking Few-Shot Object Detection with Non-linear Semantic Decoupling Augmentation | Object Detection | [LINK](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_SNIDA_Unlocking_Few-Shot_Object_Detection_with_Non-linear_Semantic_Decoupling_Augmentation_CVPR_2024_paper.html) | - |
 | ECCV24 | SMILe: Leveraging Submodular Mutual Information For Robust Few-Shot Object Detection | Object Detection | [LINK](https://eccv2024.ecva.net//virtual/2024/poster/796) | - |
+| ECCV24 | Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector | Object Detection | [LINK](https://arxiv.org/abs/2402.03094) | [CODE](https://github.com/lovelyqian/CDFSOD-benchmark) |
 | AAAI24 | Fine-Grained Prototypes Distillation for Few-Shot Object Detection | Object Detection | [PDF](https://arxiv.org/pdf/2401.07629) | [CODE](https://github.com/wangchen1801/FPD) |
 | AAAI24 | Weakly Supervised Few-Shot Object Detection with DETR | Object Detection | - | - |
 | AAAI24 | Variational Hybrid-Attention Framework for Multi-Label Few-Shot Aspect Category Detection | Aspect Category Detection | [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/29375) | - |
