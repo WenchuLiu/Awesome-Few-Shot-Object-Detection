@@ -1,4 +1,4 @@
-# Awesome-Few-Shot-Object-Detection
+# Awesome-Few-Shot-Learning
 
 Collect some papers about few-shot object detection for computer vision.
 
@@ -13,42 +13,42 @@ Collect some papers about few-shot object detection for computer vision.
 
 ### 2026
 
-| Venue | Title | LINK | CODE |
-| :----:|:-----|:----:|:----:|
-| CVPRW26 | The Second Challenge on Cross-Domain Few-Shot Object Detection at NTIRE 2026: Methods and Results | [LINK](https://arxiv.org/abs/2604.11998) | [CODE](https://github.com/ohMargin/NTIRE2026_CDFSOD) |
-| ICLR26 | FSOD-VFM: Few-Shot Object Detection with Vision Foundation Models and Graph Diffusion | [LINK](https://iclr.cc/virtual/2026/poster/10007893) | [CODE](https://intellindust-ai-lab.github.io/projects/FSOD-VFM) |
-| AAAI26 | Less is Better: Sparse Instance Learning for Cross-Domain Few-Shot Object Detection | [LINK](https://aaai.org/wp-content/uploads/2025/11/main-track-poster-presentations-251120-2.pdf) | - |
-| AAAI26 | Intra-Image Mining and Symmetric Maximum Concept Matching for Few Shot Out-of-Distribution Detection | [LINK](https://aaai.org/wp-content/uploads/2025/11/main-track-poster-presentations-251120-2.pdf) | - |
-| AAAI26 | StyleProto: Style-Augmented Prototype Learning for Cross-Domain Few-Shot Object Detection | [LINK](https://aaai.org/wp-content/uploads/2025/11/main-track-poster-presentations-251120-2.pdf) | - |
-| CVPR26 | Remedying Target-Domain Astigmatism for Cross-Domain Few-Shot Object Detection | [LINK](https://arxiv.org/abs/2603.18541) | - |
-| CVPR26 | A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps | [LINK](https://arxiv.org/abs/2603.28182) | [CODE](https://github.com/Intellindust-AI-Lab/FT-FSOD) |
-| ArXiv26 | DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection | [LINK](https://arxiv.org/abs/2603.23455) | [CODE](https://github.com/ggare-cmu/DetPO) |
+| Venue | Title | Task | LINK | CODE |
+| :----:|:-----|:----:|:----:|:----:|
+| CVPRW26 | The Second Challenge on Cross-Domain Few-Shot Object Detection at NTIRE 2026: Methods and Results | Object Detection | [LINK](https://arxiv.org/abs/2604.11998) | [CODE](https://github.com/ohMargin/NTIRE2026_CDFSOD) |
+| ICLR26 | FSOD-VFM: Few-Shot Object Detection with Vision Foundation Models and Graph Diffusion | Object Detection | [LINK](https://iclr.cc/virtual/2026/poster/10007893) | [CODE](https://intellindust-ai-lab.github.io/projects/FSOD-VFM) |
+| AAAI26 | Less is Better: Sparse Instance Learning for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://aaai.org/wp-content/uploads/2025/11/main-track-poster-presentations-251120-2.pdf) | - |
+| AAAI26 | Intra-Image Mining and Symmetric Maximum Concept Matching for Few Shot Out-of-Distribution Detection | OOD Detection | [LINK](https://aaai.org/wp-content/uploads/2025/11/main-track-poster-presentations-251120-2.pdf) | - |
+| AAAI26 | StyleProto: Style-Augmented Prototype Learning for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://aaai.org/wp-content/uploads/2025/11/main-track-poster-presentations-251120-2.pdf) | - |
+| CVPR26 | Remedying Target-Domain Astigmatism for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://arxiv.org/abs/2603.18541) | - |
+| CVPR26 | A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps | Object Detection | [LINK](https://arxiv.org/abs/2603.28182) | [CODE](https://github.com/Intellindust-AI-Lab/FT-FSOD) |
+| ArXiv26 | DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection | LLM, Object Detection | [LINK](https://arxiv.org/abs/2603.23455) | [CODE](https://github.com/ggare-cmu/DetPO) |
 
 ### 2025
 
-| Venue | Title | LINK | CODE |
-| :----:|:-----|:----:|:----:|
-| CVPRW25 | NTIRE 2025 Challenge on Cross-Domain Few-Shot Object Detection: Methods and Results | [LINK](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Fu_NTIRE_2025_Challenge_on_Cross-Domain_Few-Shot_Object_Detection_Methods_and_CVPRW_2025_paper.html) | - |
-| CVPRW25 | Instance Feature Caching for Cross-Domain Few-Shot Object Detection | [LINK](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Huang_Instance_Feature_Caching_for_Cross-Domain_Few-Shot_Object_Detection_CVPRW_2025_paper.html) | - |
-| ICCV25 | When Pixel Difference Patterns Meet ViT: PiDiViT for Few-Shot Object Detection | [LINK](https://openaccess.thecvf.com/content/ICCV2025/html/Zhou_When_Pixel_Difference_Patterns_Meet_ViT_PiDiViT_for_Few-Shot_Object_ICCV_2025_paper.html) | [CODE](https://github.com/Seaz9/PiDiViT) |
-| ICLR25 | Multi-Perspective Data Augmentation for Few-shot Object Detection | [LINK](https://iclr.cc/virtual/2025/poster/28258) | - |
-| NeurIPS25 | Domain-RAG: Retrieval Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection | [LINK](https://arxiv.org/abs/2506.05872) | [CODE](https://github.com/LiYu0524/Domain-RAG) |
-| NeurIPS25 | Don't Need Retraining: A Mixture of DETR and Vision Foundation Models for Cross-Domain Few-Shot Object Detection | [LINK](https://openreview.net/pdf?id=5TTUwJGqHT) | [CODE](https://github.com/lch216/VFMDETR) |
-| TPAMI25 | Generalized Semantic Contrastive Learning via Embedding Side Information for Few-Shot Object Detection | [LINK](https://ieeexplore.ieee.org/document/10963743/) | - |
-| ArXiv25 | No time to train! Training-Free Reference-Based Instance Segmentation | [LINK](https://arxiv.org/abs/2507.02798) | [CODE](https://github.com/miquel-espinosa/no-time-to-train) |
+| Venue | Title | Task | LINK | CODE |
+| :----:|:-----|:----:|:----:|:----:|
+| CVPRW25 | NTIRE 2025 Challenge on Cross-Domain Few-Shot Object Detection: Methods and Results | Object Detection | [LINK](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Fu_NTIRE_2025_Challenge_on_Cross-Domain_Few-Shot_Object_Detection_Methods_and_CVPRW_2025_paper.html) | - |
+| CVPRW25 | Instance Feature Caching for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Huang_Instance_Feature_Caching_for_Cross-Domain_Few-Shot_Object_Detection_CVPRW_2025_paper.html) | - |
+| ICCV25 | When Pixel Difference Patterns Meet ViT: PiDiViT for Few-Shot Object Detection | Object Detection | [LINK](https://openaccess.thecvf.com/content/ICCV2025/html/Zhou_When_Pixel_Difference_Patterns_Meet_ViT_PiDiViT_for_Few-Shot_Object_ICCV_2025_paper.html) | [CODE](https://github.com/Seaz9/PiDiViT) |
+| ICLR25 | Multi-Perspective Data Augmentation for Few-shot Object Detection | Object Detection | [LINK](https://iclr.cc/virtual/2025/poster/28258) | - |
+| NeurIPS25 | Domain-RAG: Retrieval Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://arxiv.org/abs/2506.05872) | [CODE](https://github.com/LiYu0524/Domain-RAG) |
+| NeurIPS25 | Don't Need Retraining: A Mixture of DETR and Vision Foundation Models for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://openreview.net/pdf?id=5TTUwJGqHT) | [CODE](https://github.com/lch216/VFMDETR) |
+| TPAMI25 | Generalized Semantic Contrastive Learning via Embedding Side Information for Few-Shot Object Detection | Object Detection | [LINK](https://ieeexplore.ieee.org/document/10963743/) | - |
+| ArXiv25 | No time to train! Training-Free Reference-Based Instance Segmentation | Instance Segmentation | [LINK](https://arxiv.org/abs/2507.02798) | [CODE](https://github.com/miquel-espinosa/no-time-to-train) |
 
 ### 2024
 
-| Venue | Title | LINK | CODE |
-| :----:|:-----|:----:|:----:|
-| CVPR24 | Few-Shot Object Detection with Foundation Models | [LINK](https://openaccess.thecvf.com/content/CVPR2024/html/Han_Few-Shot_Object_Detection_with_Foundation_Models_CVPR_2024_paper.html) | - |
-| CVPR24 | SNIDA: Unlocking Few-Shot Object Detection with Non-linear Semantic Decoupling Augmentation | [LINK](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_SNIDA_Unlocking_Few-Shot_Object_Detection_with_Non-linear_Semantic_Decoupling_Augmentation_CVPR_2024_paper.html) | - |
-| ECCV24 | SMILe: Leveraging Submodular Mutual Information For Robust Few-Shot Object Detection | [LINK](https://eccv2024.ecva.net//virtual/2024/poster/796) | - |
-| AAAI24 | Fine-Grained Prototypes Distillation for Few-Shot Object Detection | [PDF](https://arxiv.org/pdf/2401.07629) | [CODE](https://github.com/wangchen1801/FPD) |
-| AAAI24 | Weakly Supervised Few-Shot Object Detection with DETR | - | - |
-| AAAI24 | Variational Hybrid-Attention Framework for Multi-Label Few-Shot Aspect Category Detection | [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/29375) | - |
-| CoRL24 | Detect Every Thing with Few Examples | [LINK](https://arxiv.org/abs/2309.12969) | [CODE](https://github.com/mlzxy/devit) |
-| TCSVT24 | Understanding Negative Proposals in  Generic Few-Shot Object Detection | [LINK](https://ieeexplore.ieee.org/document/10440351) | [CODE](https://github.com/Ybowei/UNP) |
+| Venue | Title | Task | LINK | CODE |
+| :----:|:-----|:----:|:----:|:----:|
+| CVPR24 | Few-Shot Object Detection with Foundation Models | Object Detection | [LINK](https://openaccess.thecvf.com/content/CVPR2024/html/Han_Few-Shot_Object_Detection_with_Foundation_Models_CVPR_2024_paper.html) | - |
+| CVPR24 | SNIDA: Unlocking Few-Shot Object Detection with Non-linear Semantic Decoupling Augmentation | Object Detection | [LINK](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_SNIDA_Unlocking_Few-Shot_Object_Detection_with_Non-linear_Semantic_Decoupling_Augmentation_CVPR_2024_paper.html) | - |
+| ECCV24 | SMILe: Leveraging Submodular Mutual Information For Robust Few-Shot Object Detection | Object Detection | [LINK](https://eccv2024.ecva.net//virtual/2024/poster/796) | - |
+| AAAI24 | Fine-Grained Prototypes Distillation for Few-Shot Object Detection | Object Detection | [PDF](https://arxiv.org/pdf/2401.07629) | [CODE](https://github.com/wangchen1801/FPD) |
+| AAAI24 | Weakly Supervised Few-Shot Object Detection with DETR | Object Detection | - | - |
+| AAAI24 | Variational Hybrid-Attention Framework for Multi-Label Few-Shot Aspect Category Detection | Aspect Category Detection | [LINK](https://ojs.aaai.org/index.php/AAAI/article/view/29375) | - |
+| CoRL24 | Detect Every Thing with Few Examples | Object Detection | [LINK](https://arxiv.org/abs/2309.12969) | [CODE](https://github.com/mlzxy/devit) |
+| TCSVT24 | Understanding Negative Proposals in  Generic Few-Shot Object Detection | Object Detection | [LINK](https://ieeexplore.ieee.org/document/10440351) | [CODE](https://github.com/Ybowei/UNP) |
 
 ### 2023
 
