@@ -23,6 +23,7 @@ Collect some papers about few-shot object detection for computer vision.
 | CVPR26 | Remedying Target-Domain Astigmatism for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://arxiv.org/abs/2603.18541) | - |
 | CVPR26 | A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps | Object Detection | [LINK](https://arxiv.org/abs/2603.28182) | [CODE](https://github.com/Intellindust-AI-Lab/FT-FSOD) |
 | ArXiv26 | DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection | LLM, Object Detection | [LINK](https://arxiv.org/abs/2603.23455) | [CODE](https://github.com/ggare-cmu/DetPO) |
+| ArXiv26 | Reviving In-domain Fine-tuning Methods for Source-Free Cross-domain Few-shot Learning | Few-Shot Classification | [LINK](https://arxiv.org/pdf/2605.11659) | - |
 
 ### 2025
 
