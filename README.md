@@ -22,6 +22,7 @@ Collect some papers about few-shot object detection for computer vision.
 | AAAI26 | StyleProto: Style-Augmented Prototype Learning for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://dblp.org/rec/conf/aaai/YangX26.html) | [CODE](https://github.com/Wildfire-det/StyleProto) |
 | CVPR26 | Remedying Target-Domain Astigmatism for Cross-Domain Few-Shot Object Detection | Object Detection | [LINK](https://arxiv.org/abs/2603.18541) | - |
 | CVPR26 | A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps | Object Detection | [LINK](https://arxiv.org/abs/2603.28182) | [CODE](https://github.com/Intellindust-AI-Lab/FT-FSOD) |
+| CVPR26 | INSID3: Training-Free In-Context Segmentation with DINOv3 (Oral) | Object Detection | [LINK](https://arxiv.org/abs/2603.28480) | [CODE](https://github.com/visinf/INSID3) |
 | ArXiv26 | DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection | LLM, Object Detection | [LINK](https://arxiv.org/abs/2603.23455) | [CODE](https://github.com/ggare-cmu/DetPO) |
 | ArXiv26 | Reviving In-domain Fine-tuning Methods for Source-Free Cross-domain Few-shot Learning | Classification | [LINK](https://arxiv.org/pdf/2605.11659) | - |
 
